@@ -1,4 +1,4 @@
-# QuickAI — Full Stack AI SaaS App
+# QuickAI-Your Saarthi — Full Stack AI SaaS App
 
 QuickAI is a full-stack AI-powered SaaS application built with the **PERN stack** (PostgreSQL, Express, React, Node.js). It offers a suite of AI tools behind a subscription-based access model, letting users generate content, process images, and analyze documents through a clean, responsive dashboard.
 
