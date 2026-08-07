@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="md:max-w-96">
             <img className="h-9" src={assets.logo} alt="logo"/>
             <p className="mt-6 text-sm">
-                Experience the power of AI with QuickAi. <br />Transform your content creation with our suite of premium AI tools. Write articles, generate images, and enhance your workflow.
+                QuickAi puts real AI power in your hands. <br />Supercharge your content with powerful AI tools. Write compelling articles, generate stunning visuals, and streamline your entire creative workflow—all in one place.
             </p>
         </div>
         <div className="flex-1 flex items-start md:justify-end gap-20">
